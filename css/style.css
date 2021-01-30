@@ -1,0 +1,93 @@
+img {
+    border-radius: 20%;
+    border: 10px solid #555;
+    border-color: grey;
+}
+			body {
+
+  background-image: url('http://getwallpapers.com/wallpaper/full/8/b/1/1438730-full-size-wood-texture-wallpaper-1920x1080-for-windows-10.jpg');
+  background-repeat: no-repeat;
+  background-attachment:no-fixed;
+  background-size: cover;
+}
+
+.pic{
+  margin-top: 3em;
+  margin-left: 3em;
+}
+
+.text{
+
+  font-family:Courier;
+  margin-top: -15em;
+  margin-left: 25em;
+}
+
+.text1{
+
+  font-weight: bold;
+  width: 350px;
+  border-radius: 5%;
+  border: 10px solid #555;
+  border-color: grey;
+  font-family:Courier;
+  font-size: 20px;
+  margin-top: 5em;
+  margin-left: 50em;
+}
+
+.text2{
+  background-color:white;
+  font-weight: bold;
+  width: 350px;
+  border-radius: 5%;
+  border: 10px solid #555;
+  border-color: grey;
+  font-family:Courier;
+  font-size: 20px;
+  margin-top: 2em;
+  margin-left: 10em;
+}
+
+.text3{
+  background-color:white;
+  font-weight: bold;
+  width: 350px;
+  border-radius: 5%;
+  border: 10px solid #555;
+  border-color: grey;
+  font-family:Courier;
+  font-size: 20px;
+  margin-top: 4em;
+  margin-left: 50em;
+}
+
+.social {
+margin-top: 5em;
+margin-left: 5em;
+margin-right: 0;
+border: 5px outset none;
+background-color: none;
+text-align: left-side;
+}
+
+
+.sociall {
+margin-top: -7.5em;
+margin-bottom: 0.83em;
+margin-left: -5em;
+margin-right: 0;
+border: 5px outset none;
+background-color: none;
+text-align: left-side;
+}
+
+.socialll {
+margin-top: -7.5em;
+margin-bottom: 0.83em;
+margin-left: 0em;
+margin-right: 10em;
+border: 5px outset none;
+background-color: none;
+text-align: left-side;
+}
